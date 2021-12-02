@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ashleyviola/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
